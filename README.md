@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+<p align="center"><img width="100%" src="./assets/zxl.png" /></p>
 
 ### Hi there, I am Zhu Xinlong👋
 
