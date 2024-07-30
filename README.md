@@ -1,8 +1,8 @@
 <p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-### Hi there, I am Li Jianan👋
+### Hi there, I am Zhu Xinlong👋
 
-> A Front end developer from **HangZhou, China**.
+> Front-end developer from **Ningbo, China**.
 
 ### 🏗️ Learning:
 
@@ -18,18 +18,3 @@
 - **WeChat** : zxl1907395787
 - **Phone** : 17339811909
 - **E-mail** : zxl17339811909@163.com
-
-> ## 求职求职，杭州上海求内推，联系方式在上面 ☝️
-
-### 🏠 Blog:
-
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
-
-### 📊 Stats:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### 📈 Activity Graph:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
