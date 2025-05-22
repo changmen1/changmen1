@@ -7,9 +7,9 @@
 ### 🏗️ Learning:
 
 <code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="[https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/js-%2523007ACC?style=for-the-badge&logo=javascript&logoColor=white&color=black)"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 <code><img src="[https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg](https://img.shields.io/badge/dart-%2523007ACC?style=for-the-badge&logo=dart&logoColor=white&color=pink)"></code>
 <code><img src="https://img.shields.io/badge/flutter-%2523007ACC?style=for-the-badge&logo=flutter&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Java-%2523007ACC?style=for-the-badge&logo=spring&logoColor=white&color=origin"/></code>
