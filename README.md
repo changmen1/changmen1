@@ -13,6 +13,7 @@
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
 <code><img src="[https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg](https://img.shields.io/badge/dart-%2523007ACC?style=for-the-badge&logo=dart&logoColor=white&color=pink)"></code>
 <code><img src="https://img.shields.io/badge/flutter-%2523007ACC?style=for-the-badge&logo=flutter&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Java-%2523007ACC?style=for-the-badge&logo=spring&logoColor=white&color=origin"/></code>
 <code><img src="https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink"/></code>
 
 ### 📫 Reach me:
