@@ -14,6 +14,7 @@
 <code><img src="https://img.shields.io/badge/flutter-%2523007ACC?style=for-the-badge&logo=flutter&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Java-%2523007ACC?style=for-the-badge&logo=spring&logoColor=white&color=origin"/></code>
 <code><img src="https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink"/></code>
+<code><img src="[https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink](https://img.shields.io/badge/php-%2523007ACC?style=for-the-badge&logo=php&logoColor=white&color=yellow)"/></code>
 
 ### 📫 Reach me:
 
