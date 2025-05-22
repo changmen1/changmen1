@@ -11,10 +11,9 @@
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
-<code><img width="10%" src="https://img.shields.io/badge/flutter-%2523007ACC?style=for-the-badge&logo=flutter&logoColor=white"></code>
-<code><img width="10%" src="https://go.dev/images/go-logo-white.svg"/></code>
+<code><img src="[https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg](https://img.shields.io/badge/dart-%2523007ACC?style=for-the-badge&logo=dart&logoColor=white&color=pink)"></code>
+<code><img src="https://img.shields.io/badge/flutter-%2523007ACC?style=for-the-badge&logo=flutter&logoColor=white"></code>
+<code><img src="[https://go.dev/images/go-logo-white.svg](https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink)"/></code>
 
 ### 📫 Reach me:
 
