@@ -6,7 +6,7 @@
 
 ### 🏗️ Learning:
 
-<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/ts-%2523007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=black"/></code>
 <code><img src="https://img.shields.io/badge/js-%2523007ACC?style=for-the-badge&logo=javascript&logoColor=white&color=black"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/tauri-%2523007ACC?style=for-the-badge&logo=tauri&logoColor=white&color=black"/></code>
