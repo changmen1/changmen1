@@ -11,7 +11,6 @@
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/tauri-%2523007ACC?style=for-the-badge&logo=tauri&logoColor=white&color=black"/></code>
 <code><img src="https://img.shields.io/badge/electron-%2523007ACC?style=for-the-badge&logo=electron&logoColor=white&color=black"/></code>
-<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/flutter-%2523007ACC?style=for-the-badge&logo=flutter&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/Java-%2523007ACC?style=for-the-badge&logo=spring&logoColor=white&color=origin"/></code>
 <code><img src="https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink"/></code>
