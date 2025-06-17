@@ -16,7 +16,7 @@
 <code><img src="https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink"/></code>
 <code><img src="https://img.shields.io/badge/php-%2523007ACC?style=for-the-badge&logo=php&logoColor=white&color=yellow"/></code>
 
-📌 我在 [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro/pull/你的PR编号) 提交了贡献！
+📌 我在 [ant-design/ant-design-pro](https://github.com/ant-design/pro-components/commit/efd3e8c34247a95d8fcb461dab16393b468cb056) 提交了贡献！
 
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
