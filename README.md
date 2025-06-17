@@ -16,14 +16,7 @@
 <code><img src="https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink"/></code>
 <code><img src="https://img.shields.io/badge/php-%2523007ACC?style=for-the-badge&logo=php&logoColor=white&color=yellow"/></code>
 
-### 📫 Reach me
-
-- **QQ** : 1907395787
-- **WeChat** : zxl1907395787
-- **Phone** : 17339811909
-- **E-mail** : <zxl17339811909@163.com>
-
-<img src="https://github.com/changmen1/changmen1/blob/main/github-metrics.svg" alt="Metrics" />
+📌 我在 [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro/pull/你的PR编号) 提交了贡献！
 
  <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-2-blue)
@@ -92,3 +85,10 @@ C++                      2 repos             █░░░░░░░░░░�
 
  Last Updated on 17/06/2025 02:00:25 UTC
 <!--END_SECTION:waka-->
+
+### 📫 Reach me
+
+- **QQ** : 1907395787
+- **WeChat** : zxl1907395787
+- **Phone** : 17339811909
+- **E-mail** : <zxl17339811909@163.com>
