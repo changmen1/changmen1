@@ -4,7 +4,7 @@
 
 > Front-end developer from **Ningbo, China**.
 
-### 🏗️ Learning:
+### 🏗️ Learning
 
 <code><img src="https://img.shields.io/badge/ts-%2523007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=black"/></code>
 <code><img src="https://img.shields.io/badge/js-%2523007ACC?style=for-the-badge&logo=javascript&logoColor=white&color=black"/></code>
@@ -16,9 +16,12 @@
 <code><img src="https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink"/></code>
 <code><img src="https://img.shields.io/badge/php-%2523007ACC?style=for-the-badge&logo=php&logoColor=white&color=yellow"/></code>
 
-### 📫 Reach me:
+### 📫 Reach me
 
 - **QQ** : 1907395787
 - **WeChat** : zxl1907395787
 - **Phone** : 17339811909
-- **E-mail** : zxl17339811909@163.com
+- **E-mail** : <zxl17339811909@163.com>
+
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
