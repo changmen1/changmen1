@@ -23,5 +23,7 @@
 - **Phone** : 17339811909
 - **E-mail** : <zxl17339811909@163.com>
 
+![Metrics](https://metrics.lecoq.io/?template=classic&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&notable=false&notable.skipped=https%3A%2F%2Fgithub.com%2Fant-design%2Fant-design-pro&notable.from=organization&notable.repositories=false&notable.indepth=true&notable.types=commit&notable.self=false&config.timezone=Asia%2FShanghai)
+
  <!--START_SECTION:waka-->
  <!--END_SECTION:waka-->
