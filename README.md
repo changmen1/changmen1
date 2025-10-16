@@ -16,7 +16,7 @@
 <code><img src="https://img.shields.io/badge/go-%2523007ACC?style=for-the-badge&logo=go&logoColor=white&color=pink"/></code>
 <code><img src="https://img.shields.io/badge/php-%2523007ACC?style=for-the-badge&logo=php&logoColor=white&color=yellow"/></code>
 
-📌 我在 [ant-design/ant-design-pro](https://github.com/ant-design/pro-components/commit/efd3e8c34247a95d8fcb461dab16393b468cb056) 提交了贡献！
+<!-- 📌 我在 [ant-design/ant-design-pro](https://github.com/ant-design/pro-components/commit/efd3e8c34247a95d8fcb461dab16393b468cb056) 提交了贡献！ -->
 
  <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2040%20mins-blue)
